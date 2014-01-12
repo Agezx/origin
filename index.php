@@ -25,7 +25,7 @@
     </div>
     <div id="main">
       <h2>
-        メイン 
+        メインsikai 
       </h2>
       <blockquote cite="http://www.example.com">
         <p>test1</p>
